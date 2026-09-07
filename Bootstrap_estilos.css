@@ -1,0 +1,31 @@
+#Menu_1{
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 28px;
+    text-align: center;
+    padding: 10px;
+    display: block;
+}
+#Columnas_1{
+    color: #000000;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+}
+#btnModoOscuro{
+    background-color: #f8f9fa;
+    color: #212529;
+    border: 2px solid #ffc107;
+    display: block;
+    text-align: center;
+    font-weight: 600;
+    align-self: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    transition: all 0.3s ease;
+}
+#btnModoOscuro:hover{
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
