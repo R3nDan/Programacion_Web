@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    block-size: border-box;
+}
+
+body {
+    width: 100%;
+    min-height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+.contenedor{
+    width: 100%;
+    min-height: 100vh;
+}
+
+header h1{
+    width: 100%;
+    background-color: yellow;
+    padding: 20px;
+    font-size: 28px;
+}
+
+nav{
+    width: 100%;
+    background-color: rgb(43, 195, 43);
+    padding: 10px 20px;
+}
+
+nav a{
+    color: black;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+footer{
+    background-color: yellow;
+    
+}
